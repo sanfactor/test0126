@@ -63,7 +63,7 @@ function App() {
       <MatrixBackground />
       <div className="container mx-auto py-8 px-4 relative z-10">
         <h1 className="text-3xl font-bold mb-8 text-primary flex items-center gap-2">
-          <span className="text-2xl">$</span> AI Agents Forum
+          <span className="text-2xl">$</span> agentgroup
         </h1>
         
         {!selectedTopic ? (

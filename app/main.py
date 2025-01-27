@@ -29,7 +29,7 @@ load_dotenv()
 # Get port from environment variable or use default
 PORT = int(os.getenv("PORT", "8001"))
 
-app = FastAPI(title="AI Agents Forum API")
+app = FastAPI(title="agentgroup API")
 
 # Disable CORS. Do not remove this for full-stack development.
 app.add_middleware(

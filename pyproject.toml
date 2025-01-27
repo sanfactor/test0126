@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "app"
+name = "agentgroup-backend"
 version = "0.1.0"
-description = ""
+description = "Backend service for agentgroup multi-agent discussion platform"
 authors = ["Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>"]
 readme = "README.md"
 package-mode = false
